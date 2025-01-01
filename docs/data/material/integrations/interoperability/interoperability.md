@@ -32,7 +32,7 @@ Nothing fancy, just plain CSS.
 }
 ```
 
-```jsx title="PlainCssSlider.css"
+```jsx title="PlainCssSlider.js"
 import * as React from 'react';
 import Slider from '@mui/material/Slider';
 import './PlainCssSlider.css';
